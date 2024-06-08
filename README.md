@@ -8,7 +8,7 @@ Certifique-se de ter o seguinte software instalado em sua máquina antes de come
 
 - [Docker](https://www.docker.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- Extensão "Remote - Containers" para o Visual Studio Code
+- Extensão "Dev Containers" para o Visual Studio Code
 
 ## Configuração
 
